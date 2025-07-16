@@ -1,16 +1,11 @@
-## Hi there 👋
+# 🕹 Melania Rizzuto
 
-<!--
-**Melrizzuto/Melrizzuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```ansi
+> Frontend Developer · UX/UI Designer · Pixel Samurai ✨
+💾 System Info
+	•	👩‍💻 Currently hacking with: Vue, Nuxt, Tailwind, Figma
+	•	🧠 Learning: Nuxt 3, Accessibility (a11y), Performance Optimization
+	•	💼 Intern @ Retex – Team Atoms (Luxury Industry)
+	•	🛠 Tech stack: HTML / CSS / JavaScript / Vue / Nuxt / Git / Node / MySQL
+	•	🎓 Master in UX Design – Talent Garden x Sketchin
+	•	📚 Degree in Product Design (in progress)
