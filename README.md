@@ -42,7 +42,7 @@ Currently interning at **Retex** (Team Atoms) and pursuing a dual UX/UI design M
 ### 📚 Education
 
 - 🎓 **Product Design (BA)** – Unimercatorum Roma *(in progress)*
-- 📘 **Full Stack Development Bootcamp** – Boolean *(2024)*
+- 📘 **Full Stack Development Bootcamp** – Boolean *(Sept 2024 - May 2025)*
 - 🧪 **UX Design Master** – Talent Garden × Sketchin *(May–July 2025)*
 - 🎨 **UI Design Master** – Talent Garden *(Sept–Nov 2025)*
 
