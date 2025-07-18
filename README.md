@@ -44,13 +44,14 @@ I thrive at the intersection of design and development, and I believe the best d
 
 - **Frontend:** HTML, CSS, JavaScript, Typescript, Vue.js, Nuxt.js, React, Vite, Tailwind, Bootstrap 
 - **Backend:** Node.js, Express, MySQL, Axios  
-- **Tools:** Figma, Trello, ClickUp, Contentful, GitHub, Miro, Framer, Canva, Adobe
+- **Tools:** Figma, Trello, ClickUp, Contentful, GitHub, Miro, Framer, Canva, Adobe, Rhino, AutoCAD, 3Dmax(V-Ray)
 
 ---
 
 ### 📚 EDUCATION
 
-- 🎓 **Product Design (BA)** – Unimercatorum Roma *(in progress)*  
+- 🎓 **Product Design (BA)** – Unimercatorum Roma *(in progress)*
+- 🧠 **3D Modeling and Rendering Tools Bootcamp** – IED - Istituto Europeo di Design *(Nov 2023 –July 2024)*
 - 💻 **Full Stack Development Bootcamp** – Boolean *(Sept 2024 - May 2025)*  
 - 🧠 **UX Design Master** – Talent Garden × Sketchin *(May–July 2025)*  
 - 🖌️ **UI Design Master** – Talent Garden *(Sept–Nov 2025)*
