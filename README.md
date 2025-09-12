@@ -13,7 +13,7 @@ My career began in the fashion retail industry, where I spent nearly a decade wo
 
 Driven by a growing interest in digital environments and spatial design, I attended a 3D architectural rendering bootcamp at IED – Istituto Europeo di Design, where I explored visual storytelling through digital architecture and honed my skills in spatial visualization.
 
-In 2023, I made a bold shift into tech and enrolled in an intensive Full Stack Development program at Boolean, specializing in Frontend Development with a focus on React, JavaScript, and responsive UI. During this time, I discovered my love for UX/UI design the perfect fusion of creativity and logic — and began designing interfaces that are not only functional but emotionally engaging.
+In 2024, I made a bold shift into tech and enrolled in an intensive Full Stack Development program at Boolean, specializing in Frontend Development with a focus on React, JavaScript, and responsive UI. During this time, I discovered my love for UX/UI design the perfect fusion of creativity and logic — and began designing interfaces that are not only functional but emotionally engaging.
 
 I’m currently interning as a Frontend Developer at Retex (Team Atoms), contributing to digital projects in the luxury sector. Alongside my internship, I’m pursuing a dual UX/UI Design Master at Talent Garden, where I’m refining my skills in user research, interaction design, wireframing, and prototyping using tools like Figma.
 
