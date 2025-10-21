@@ -15,7 +15,7 @@ Driven by a growing interest in digital environments and spatial design, I atten
 
 In 2024, I made a bold shift into tech and enrolled in an intensive Full Stack Development program at Boolean, specializing in Frontend Development with a focus on React, JavaScript, and responsive UI. During this time, I discovered my love for UX/UI design the perfect fusion of creativity and logic and began designing interfaces that are not only functional but emotionally engaging.
 
-I’m currently interning as a Frontend Developer at Retex (Team Atoms), contributing to digital projects in the luxury sector. Alongside my internship, I’m pursuing a dual UX/UI Design Master at Talent Garden, where I’m refining my skills in user research, interaction design, wireframing, and prototyping using tools like Figma.
+I started my first internship at Atoms, where I contributed to digital projects in the luxury sector as a Frontend Developer for about four months. I then began a new journey with Witailer, where I’m currently working as a Software Engineer on Studio, a business intelligence product for Amazon. Alongside my internship, I’m pursuing a dual UX/UI Design Master at Talent Garden, where I’m refining my skills in user research, interaction design, wireframing, and prototyping using tools like Figma.
 
 I thrive at the intersection of design and development, and I believe the best digital experiences are born when empathy, beauty, and clean code come together. I’m especially passionate about inclusive, ethical, and accessible design and I’m always exploring ways to make technology feel more human.
 
