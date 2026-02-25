@@ -50,7 +50,7 @@ I thrive at the intersection of design and development, and I believe the best d
 
 ### 📚 EDUCATION
 
-- 🎓 **Product Design (BA)** – Unimercatorum Roma *(in progress)*
+- 🎓 **Product Design (BA)** – Unimercatorum Roma *(Feb 2026)*
 - 🧠 **3D Modeling and Rendering Tools Bootcamp** – IED - Istituto Europeo di Design *(Nov 2023 –July 2024)*
 - 💻 **Full Stack Development Bootcamp** – Boolean *(Sept 2024 - May 2025)*  
 - 🧠 **UX Design Master** – Talent Garden × Sketchin *(May–July 2025)*  
