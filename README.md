@@ -17,7 +17,7 @@ I got here the long way. From 2016 to 2023 I worked in visual merchandising for 
 - AI tools, from idea to code
 - Prototypes you can click
 
-Got a project unlike any other? [Write to me](mailto:melrizzuto4@gmail.com).
+Got a project unlike any other? [Write to me](mailto:melrizzuto4@gmail.com) or [book a 30-minute call](https://calendly.com/melrizzuto4/30min).
 
 ### At Witailer
 
