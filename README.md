@@ -58,6 +58,6 @@ From the academy: **Spotify Mood**, mood-based music discovery ([case study](htt
 
 ### Elsewhere
 
-[Portfolio](https://clabstudio.vercel.app/en/) · [LinkedIn](https://www.linkedin.com/in/melania-rizzuto-57a42790/) · [Instagram](https://www.instagram.com/c.labstudi0/) · [YouTube](https://www.youtube.com/@c.labstudio.milano), where in *Rifatto.* I redesign a famous product in one evening · [Email](mailto:melrizzuto4@gmail.com)
+[Portfolio](https://clabstudio.vercel.app/en/) · [LinkedIn](https://www.linkedin.com/in/melania-rizzuto-57a42790/) · [Instagram](https://www.instagram.com/c.labstudi0/) · [YouTube](https://www.youtube.com/@c.labstudio.milano), where in *Rifatto* I redesign a famous product in one evening · [Email](mailto:melrizzuto4@gmail.com)
 
 <sub>Calì approved.</sub>
